@@ -12,9 +12,11 @@ i used tinkercad for this circuit, and the components are:
 
 -ultrasonic sensor 
 
-i tried to program the led in arduino 2 to work when someone within 100cm of reach near 
+i tried to use (master, slave) coding theme with 2 arduino.
+
+i programmed the led in arduino 2 to work when someone within 100cm of reach near 
 
 the ultrasonic sensor in arduino 1. however the code i used wasn't working probably. 
 
-i would like whoever reading my codes to kindly enlighten me about the errors. 
+i would like from Engineers who will be reading my codes to kindly enlighten me about the errors. 
 
