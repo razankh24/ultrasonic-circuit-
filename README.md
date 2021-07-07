@@ -8,9 +8,9 @@ i used tinkercad for this circuit, and the components are:
 
 - 2 arduino (the other arduino was there instead of the bluetooth module)
 
--led as an output (could be anything: a video, arms movement, etc...)
+- led as an output (could be anything: a video, arms movement, etc...)
 
--ultrasonic sensor 
+- ultrasonic sensor 
 
 i tried to use (master, slave) coding theme with 2 arduino.
 
