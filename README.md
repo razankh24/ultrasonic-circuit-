@@ -4,6 +4,8 @@ in this task: we most connect ultrasonic distance sensor with arduino, and a blu
 
 and code it to display a video when someone approach the robot.
 
+LINK in tinkercad >> https://www.tinkercad.com/things/lYxWUF65Tme-grand-jarv-bombul/editel?sharecode=RGUB3Lr8c-nvpbGwXv07DH_fwjrB7PtJMr1tDW2_Y90
+
 i used tinkercad for this circuit, and the components are: 
 
 - 2 arduino (the other arduino was there instead of the bluetooth module)
