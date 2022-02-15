@@ -1,6 +1,6 @@
 # ultrasonic-circuit-
 
-in this task: we most connect ultrasonic distance sensor with arduino, and a bluetooth module, 
+ we most connect ultrasonic distance sensor with arduino, and a bluetooth module, 
 
 and code it to display a video when someone approach the robot.
 
